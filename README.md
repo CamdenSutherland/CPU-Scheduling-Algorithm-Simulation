@@ -1,5 +1,5 @@
 # CPU-Scheduling-Algorithm-Simulation
-Simple program to simulate the CPU job scheduling algorithms   
+Simple program to simulate the CPU job scheduling algorithms. FCFC: First Come First Served and SJF: Shortest Job First   
 
 ## Usage:
 `simulate <filename>`
